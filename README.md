@@ -23,8 +23,8 @@ The hardware components, microcontrollers, and wiring are mounted inside custom 
 ### Technologies & Protocols Used
 - **Microcontrollers:** Arduino Uno R4 WiFi, ESP32
 - **IoT Platform:** Arduino Cloud (IoT Remote)
-- **Languages:** C/C++ (Arduino Sketch)
-- **Protocols & Connectivity:** Wi-Fi, MQTT (via Arduino Cloud)
+- **Languages:** C++ (Arduino Sketch)
+- **Protocols & Connectivity:** Wi-Fi
 
 ### How to Access Code Sketches
 The source code for this project is archived in the `src/` directory. 
