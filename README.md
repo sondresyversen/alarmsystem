@@ -16,9 +16,11 @@ Here is the centralized management interface built using Arduino Cloud to log tr
 ### 🛠️ Hardware & Enclosure Setup
 The hardware components, microcontrollers, and wiring are mounted inside custom enclosures. The system utilizes a manual call point trigger combined with remote bell units:
 
-| Main Control Panel Setup | Internal Component Wiring | External Bell Unit |
-| :---: | :---: | :---: |
-| ![MCP](assets/MCP.jpeg) | ![Inside MCP](assets/InsideMCP.jpeg) | ![Bell Setup](assets/BellSetup.jpeg) |
+<p align="center">
+  <img src="assets/MCP.jpeg" width="30%" alt="Main Control Panel Setup" />
+  <img src="assets/InsideMCP.jpeg" width="30%" alt="Internal Component Wiring" />
+  <img src="assets/BellSetup.jpeg" width="30%" alt="External Bell Unit" />
+</p>
 
 ### Technologies & Protocols Used
 - **Microcontrollers:** Arduino Uno R4 WiFi, ESP32
@@ -30,4 +32,3 @@ The hardware components, microcontrollers, and wiring are mounted inside custom 
 The source code for this project is archived in the `src/` directory. 
 - `MCPSketch.zip` contains the primary logic for the Main Control Panel.
 - `FriedlandMasterbellSketch.zip` contains the logic for the receiver and bell unit.
-
