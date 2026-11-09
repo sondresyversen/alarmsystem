@@ -32,3 +32,8 @@ The hardware components, microcontrollers, and wiring are mounted inside custom 
 The source code for this project is archived in the `src/` directory. 
 - `MCPSketch.zip` contains the primary logic for the Main Control Panel.
 - `FriedlandMasterbellSketch.zip` contains the logic for the receiver and bell unit.
+
+---
+
+### 📺 Video Demonstration
+- Watch a full walkthrough and live test of the system here: https://www.youtube.com/watch?v=rqKqNqreE2E&list=PLh7Ak5RxptJVgNKAX8O1Po94_dOQGVT3I
