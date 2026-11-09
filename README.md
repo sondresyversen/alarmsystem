@@ -29,5 +29,5 @@ The hardware components, microcontrollers, and wiring are mounted inside custom 
 ### How to Access Code Sketches
 The source code for this project is archived in the `src/` directory. 
 - `MCPSketch.zip` contains the primary logic for the Main Control Panel.
-- `FriedlandMasterbellSketch.zip` contains the logic for the receiver and bell actuator.
+- `FriedlandMasterbellSketch.zip` contains the logic for the receiver and bell unit.
 
